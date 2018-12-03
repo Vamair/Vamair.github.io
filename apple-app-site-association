@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "5R4TK49N8Q.com.applap.Pharma",
-                "paths": [ "/*"]
+                "paths": [ "*"]
             }
         ]
     }
